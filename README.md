@@ -9,6 +9,7 @@
 **Skills:** Statistical Analysis, Econometric Modeling, Data Preprocessing, Feature Engineering, Clustering Algorithms (K-means), Evaluation Metrics (Silhouette Score, Elbow Method, CH Index), Python (for data manipulation and analysis), Data Visualization (Matplotlib, Seaborn)
 
 **Results and Recommendations:** 
+
 Target Graduate Students:
 
 Lower Prices: Slightly reduce prices to appeal to their elastic demand and potentially increase overall revenue.
